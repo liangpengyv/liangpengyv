@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=liangpengyv&line_height=20&bg_color=151515&title_color=f3f3f3&border_color=30363d&text_color=999999"/>
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=liangpengyv&line_height=20&bg_color=161b22&title_color=f3f3f3&border_color=30363d&text_color=999999"/>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
