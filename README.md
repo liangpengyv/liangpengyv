@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 
 ### About Me 👋
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=liangpengyv&count_private=true&show_icons=true&theme=dark" width="380">
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangpengyv)](https://github.com/liangpengyv/github-readme-stats)
-
-<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=liangpengyv&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=liangpengyv&show_icons=true&hide_border=false&line_height=20&title_color=ffef03&icon_color=3080ed&show_owner=false"/>
 
 - A programmer who can play guitar
