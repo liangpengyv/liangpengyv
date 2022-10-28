@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=liangpengyv&show_icons=true&hide_border=false&line_height=20&title_color=39a6ff&icon_color=39a6ff&show_owner=true"/>
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=liangpengyv&show_icons=false&hide_border=false&line_height=20&title_color=39a6ff&show_owner=true"/>
 
 ### About Me 👋
 
