@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=liangpengyv&count_private=true&show_icons=true&theme=dark" width="380">
 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 - A programmer who can play guitar
