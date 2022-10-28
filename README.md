@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangpengyv)](https://github.com/liangpengyv/github-readme-stats)
+
 - A programmer who can play guitar
