@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangpengyv)](https://github.com/liangpengyv/github-readme-stats)
 
+<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=liangpengyv&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+
 - A programmer who can play guitar
