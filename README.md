@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me 👋
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=liangpengyv&show_icons=true&hide_border=false&line_height=20&title_color=39a6ff&icon_color=3080ed&show_owner=true"/>
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=liangpengyv&show_icons=true&hide_border=false&line_height=20&title_color=ffef03&icon_color=3080ed&show_owner=false"/>
+### About Me 👋
 
 - A programmer who can play guitar
