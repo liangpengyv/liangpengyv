@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ### About Me 👋
 
-- A programmer who can play guitar
+- A developer who can play guitar
