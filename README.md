@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ### About Me 👋
 
-JS Developer / Aspiring guitarist
+JS Developer / Aspiring Guitarist
